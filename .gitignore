@@ -1,0 +1,5 @@
+*.h5
+*.tflite
+client/
+server/
+DATASET-20220617T135547Z-001/
